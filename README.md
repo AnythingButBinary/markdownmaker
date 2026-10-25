@@ -108,4 +108,4 @@ a free Substack newsletter covering newly released CRS reports with plain-langua
 synopses and commentary.
 
 The extracted Markdown files from CRS reports are archived at
-[crs-reports](https://github.com/ProfAmiot/crs-reports).
+[crs-reports](https://github.com/AnythingButBinary/crs-reports).
